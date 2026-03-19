@@ -1,0 +1,21 @@
+The dataset contains 24 unique keywords and 8 unique URLs. Across the full period, the site generated 9,933 clicks from 266,188 impressions, with a weighted CTR of 3.73% and an average position of 10.7. The optional prediction module trained on 26 keyword-URL rows. Its traffic model MAE is 20.55 clicks and its ranking model MAE is 0.72 average positions.
+
+Main deliverables created in /output:
+- top_urls.csv
+- keyword_opportunities.csv
+- low_ctr_urls.csv
+- cannibalization_report.csv
+- daily_performance.csv
+- traffic_predictions.csv
+- keywords_likely_to_reach_top3.csv
+- daily_clicks.png
+- ctr_vs_position.png
+- top_pages_clicks.png
+- predicted_vs_actual_clicks.png
+- keywords_likely_to_reach_top3_probability.png
+
+Prediction metrics:
+- Traffic model MAE: 20.55
+- Traffic model R^2: 0.477
+- Ranking model MAE: 0.72
+- Ranking model R^2: 0.289
