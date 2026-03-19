@@ -2,6 +2,7 @@
 
 A Python project for analyzing SEO performance data and generating practical insights from search metrics.
 
+                                                            https://boostmyseo.net/
 ## Features
 - Data cleaning and preprocessing
 - Keyword performance analysis
